@@ -8,14 +8,14 @@ const projects = [
   {
     name: "3D Wardrope Customization Platform",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+      "A open platform where users can customize their t-shirt according to them through various tools, can upload their logo from their device and can download the same.",
     image: "/war.png",
     github: "https://github.com/Adityyaaa",
     link: "https://github.com/Adityyaaa/",
   },
   {
     name: "Text-To-AI Image Generator",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    description: "A public showcase community where users can generate images multiple times as per their specifications specified and can upload them at our showcase gallery, providing a feature of downloading generated images of ours as well as of others.",
     image: "/ai.png",
     github: "https://github.com/Adityyaaa/AI_Text_To_Image_Generator",
     link: "https://github.com/Adityyaaa/AI_Text_To_Image_Generator",
@@ -23,7 +23,7 @@ const projects = [
   {
     name: "Multiple Disease Prediction",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
+      "An initiative taken to cure the society's health by knowing their health condition beforehand to let them make the decision at an early stage",
     image: "/mul_dis.png",
     github: "https://github.com/Adityyaaa/Multiple_Disease_Prediction",
     link: "https://github.com/Adityyaaa/Multiple_Disease_Prediction",

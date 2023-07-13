@@ -28,11 +28,12 @@ const HeroSection = () => {
             makes life easier and more meaningful. 
           </p>
       
-          <p className="text-lg mt-4 mb-6 md:text-2xl">
+          <p  className="text-lg mt-4 mb-6 md:text-2xl">
             Here&#39;s my {" "}
             <span className="font-semibold text-teal-600">
-              Github Profile Link{" "}
+              Projects{" "}
             </span> 
+            attacted with Github Profile do have a look, thankyou!
           </p>
 
           <Link
