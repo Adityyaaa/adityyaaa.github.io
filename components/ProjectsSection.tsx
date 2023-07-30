@@ -10,8 +10,8 @@ const projects = [
     description:
       "A open platform where users can customize their t-shirt according to them through various tools, can upload their logo from their device and can download the same.",
     image: "/war.png",
-    github: "https://github.com/Adityyaaa",
-    link: "https://github.com/Adityyaaa/",
+    github: "https://github.com/Adityyaaa/3D_Shirt_Customization_Platform",
+    link: "https://github.com/Adityyaaa/3D_Shirt_Customization_Platform",
   },
   {
     name: "Text-To-AI Image Generator",

@@ -50,7 +50,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I have completed my 10th standard (ICSE) with 88.4% and 12th standard (ISC) with 82% from Kanpur. Currently I am persuing my graduation in Computer Science and Engineering with specialization in Data Science(2021-2025) from ABES Engineering College, Ghaziabad.
+              I have completed my 10th standard (ICSE) and 12th standard (ISC) from Kanpur. Currently I am persuing my graduation in Computer Science and Engineering with specialization in Data Science(2021-2025) from ABES Engineering College, Ghaziabad.
             </p> 
             <br />
             <p>
